@@ -55,17 +55,17 @@ public:
     }
     void hasilKerja(){
         // Kode Pegawai - Nama - Tugas - Kode Ruang - Deadline
-		cout << "1. Urut Berdasarkan Kode Pegawai \n";
-		cout << "2. Urut Berdasarkan Nama \n";
-		cout << "3. Urut Berdasarkan Tugas \n";
-		cout << "4. Urut Berdasarkan Kode Ruang \n";
-		cout << "5. Urut Berdasarkan Deadline \n";
-		//cout << "0. Kembali \n";
+	cout << "1. Urut Berdasarkan Kode Pegawai \n";
+	cout << "2. Urut Berdasarkan Nama \n";
+	cout << "3. Urut Berdasarkan Tugas \n";
+	cout << "4. Urut Berdasarkan Kode Ruang \n";
+	cout << "5. Urut Berdasarkan Deadline \n";
+	cout << "0. Kembali \n";
     }
     void tambahTugas(){
         cout << "Masukkan Tugas 	: "; cin >> tugas;
-		cout << "Masukkan Deadline	: "; cin >> dl;
-		cout << "Masukkan Target	: "; cin >> kodeP;
+	cout << "Masukkan Deadline	: "; cin >> dl;
+	cout << "Masukkan Target	: "; cin >> kodeP;
     }
     void kesimpulanKerja(){
     }
