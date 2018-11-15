@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1542206850 source:f:\um\algoritma dan pemrograman\tugas besar\main.cpp
+	"main.h"
+
+1542249877 f:\um\algoritma dan pemrograman\tugas besar\main.h
+	<iostream>
+	<fstream>
+	<sstream>
+
