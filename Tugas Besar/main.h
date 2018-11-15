@@ -60,7 +60,7 @@ public:
 		cout << "3. Urut Berdasarkan Tugas \n";
 		cout << "4. Urut Berdasarkan Kode Ruang \n";
 		cout << "5. Urut Berdasarkan Deadline \n";
-		cout << "0. Kembali \n";
+		//cout << "0. Kembali \n";
     }
     void tambahTugas(){
         cout << "Masukkan Tugas 	: "; cin >> tugas;
